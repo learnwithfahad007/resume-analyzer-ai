@@ -81,8 +81,4 @@ This app extracts skills from **PDF or TXT resumes**, matches them against a ski
 ---
 
 ## 🤝 Contributing
-
 Pull requests are welcome! For major changes, please open an issue first.
-
-This project is licensed under the **MIT License**.--
-Do you want me to make that Word file for 
