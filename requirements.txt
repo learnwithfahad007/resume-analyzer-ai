@@ -2,5 +2,4 @@ streamlit
 pandas
 pytz
 python-dateutil
-numpy<2
-pyarrow==0.0 # disables pyarrow so it won't download 26 MB package
+numpy==1.26.4
